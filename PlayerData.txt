@@ -8,5 +8,5 @@ Chopsticc,Cockkk,
 M.O.O.N,<color=#ff00ff>Hello!{comma} sexy~</color>,
 RoseyNekoha,<color=#00eeff>Cutie Pie</color>,
 YukimuraKyoko,Kyokopie,
-RiskiVR,<color=#bebeff>Professional Idiot</color>
+RiskiVR,<color=#bebeff>Professional Idiot</color>,
 RootVR,Lakupiippu
