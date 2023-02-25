@@ -10,3 +10,4 @@ RoseyNekoha,<color=#00eeff>Cutie Pie</color>,
 YukimuraKyoko,Kyokopie,
 RiskiVR,<color=#bebeff>Professional Idiot</color>,
 RootVR,Lakupiippu
+Nyapu,Sweetest cutie cat
