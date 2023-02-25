@@ -9,6 +9,6 @@ M.O.O.N,<color=#ff00ff>Hello!{comma} sexy~</color>,
 RoseyNekoha,<color=#00eeff>Cutie Pie</color>,
 YukimuraKyoko,Kyokopie,
 RiskiVR,<color=#bebeff>Professional Idiot</color>,
-RootVR,Lakupiippu
-Nyapu,Sweetest cutie cat
+RootVR,Lakupiippu,
+Nyapu,Sweetest cutie cat,
 _Az,<color=pink>Mommy~</color>
