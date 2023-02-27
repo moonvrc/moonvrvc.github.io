@@ -11,5 +11,5 @@ YukimuraKyoko,Kyokopie,
 RiskiVR,<color=#bebeff>Professional Idiot</color>,
 RootVR,Lakupiippu,
 Nyapu,Sweetest cutie cat,
-_Az,<color=#ff00ff>Mommy~</color>
+_Az,<color=#ff00ff>Mommy~</color>,
 8weeknd,<color=#400a0a>Raccoon</color>
